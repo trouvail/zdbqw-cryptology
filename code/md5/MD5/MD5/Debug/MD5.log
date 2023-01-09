@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\19811\source\repos\MD5\MD5\源.cpp(139,10): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\19811\source\repos\MD5\MD5\源.cpp(142,31): warning C4018: “<”: 有符号/无符号不匹配
+  MD5.vcxproj -> C:\Users\19811\source\repos\MD5\Debug\MD5.exe
